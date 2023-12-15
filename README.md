@@ -7,7 +7,7 @@ Consists of a statistical analysis part and a optimisation part using a discrete
 The final versions of the code that are used for the report are
 
 -For Statisctical analysis:
-Statistic analysis.R
+Statistic analysis final.R
 
 -For discrete event simulation
 New system:
