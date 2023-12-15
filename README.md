@@ -6,13 +6,13 @@ Consists of a statistical analysis part and a optimisation part using a discrete
 
 The final versions of the code that are used for the report are
 
-For Statisctical analysis:
+-For Statisctical analysis:
 Statistic analysis.R
 
-For discrete event simulation:
--New system
+-For discrete event simulation
+New system:
 CRS_new_final.R
--Old system
+Old system:
 CRS_old_group1.R
 CRS_old_group2.R
 
