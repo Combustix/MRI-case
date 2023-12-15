@@ -1,3 +1,4 @@
+library(fitdistrplus)
 set.seed(515)    # Set the seed for the random number generator
 B <- 100000         # Number of bootstrap replications
 alpha <- 0.05    # Nominal level of the test
